@@ -1,5 +1,5 @@
 # Final Project Report: Financial Question Answering with RAG and LLMs
-Competition Link: https://tbrain.trendmicro.com.tw/Competitions/Details/37 \\
+Competition Link: https://tbrain.trendmicro.com.tw/Competitions/Details/37 \
 This repository contains our final project report for AI CUP 2024 Yushan Artificial Intelligence Open Challenge. Our project focuses on leveraging advanced AI techniques—specifically, Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)—to address financial question answering. The system we developed is designed to identify and retrieve the most relevant document numbers from a collection of PDF documents that span three categories: insurance, finance, and FAQ.
 
 ## Project Overview
