@@ -38,4 +38,5 @@ This repository contains our final project report for AI CUP 2024 Yushan Artific
 - **Group Contributions:**  
   Breakdown of each team member’s role in data preprocessing, feature engineering, model training, documentation, and presentation.
 
-For a complete and detailed explanation—including mathematical formulations, pseudocode, experimental results, and further discussions—please refer to the attached PDF report: [Final Project Report.pdf](Final Project Report.pdf).
+For a complete and detailed explanation—including mathematical formulations, pseudocode, experimental results, and further discussions—please refer to the attached PDF report: [Final Project Report.pdf](Final%20Project%20Report.pdf).
+.
